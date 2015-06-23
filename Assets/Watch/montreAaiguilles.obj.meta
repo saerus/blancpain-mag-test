@@ -1,0 +1,116 @@
+fileFormatVersion: 2
+guid: b6e18a4b55fde4208b1b5fd70411006a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: aiguilles_hour nurbsToPoly15
+    100002: aiguilles_hour nurbsToPoly16
+    100004: aiguilles_hour nurbsToPoly17
+    100006: aiguilles_nurbsToPoly14 hour
+    100008: aiguilles_nurbsToPoly22 sec
+    100010: aiguilles_sec nurbsToPoly23
+    100012: aiguilles_sec nurbsToPoly24
+    100014: min_aiguilles nurbsToPoly19
+    100016: min_aiguilles nurbsToPoly20
+    100018: min_aiguilles nurbsToPoly21
+    100020: //RootNode
+    100022: nurbsToPoly18_min aiguilles
+    400000: aiguilles_hour nurbsToPoly15
+    400002: aiguilles_hour nurbsToPoly16
+    400004: aiguilles_hour nurbsToPoly17
+    400006: aiguilles_nurbsToPoly14 hour
+    400008: aiguilles_nurbsToPoly22 sec
+    400010: aiguilles_sec nurbsToPoly23
+    400012: aiguilles_sec nurbsToPoly24
+    400014: min_aiguilles nurbsToPoly19
+    400016: min_aiguilles nurbsToPoly20
+    400018: min_aiguilles nurbsToPoly21
+    400020: //RootNode
+    400022: nurbsToPoly18_min aiguilles
+    2300000: aiguilles_hour nurbsToPoly15
+    2300002: aiguilles_hour nurbsToPoly16
+    2300004: aiguilles_hour nurbsToPoly17
+    2300006: aiguilles_nurbsToPoly14 hour
+    2300008: aiguilles_nurbsToPoly22 sec
+    2300010: aiguilles_sec nurbsToPoly23
+    2300012: aiguilles_sec nurbsToPoly24
+    2300014: min_aiguilles nurbsToPoly19
+    2300016: min_aiguilles nurbsToPoly20
+    2300018: min_aiguilles nurbsToPoly21
+    2300020: nurbsToPoly18_min aiguilles
+    3300000: aiguilles_hour nurbsToPoly15
+    3300002: aiguilles_hour nurbsToPoly16
+    3300004: aiguilles_hour nurbsToPoly17
+    3300006: aiguilles_nurbsToPoly14 hour
+    3300008: aiguilles_nurbsToPoly22 sec
+    3300010: aiguilles_sec nurbsToPoly23
+    3300012: aiguilles_sec nurbsToPoly24
+    3300014: min_aiguilles nurbsToPoly19
+    3300016: min_aiguilles nurbsToPoly20
+    3300018: min_aiguilles nurbsToPoly21
+    3300020: nurbsToPoly18_min aiguilles
+    4300000: aiguilles_hour nurbsToPoly15
+    4300002: aiguilles_hour nurbsToPoly16
+    4300004: aiguilles_hour nurbsToPoly17
+    4300006: aiguilles_nurbsToPoly14 hour
+    4300008: aiguilles_nurbsToPoly22 sec
+    4300010: aiguilles_sec nurbsToPoly23
+    4300012: aiguilles_sec nurbsToPoly24
+    4300014: min_aiguilles nurbsToPoly19
+    4300016: min_aiguilles nurbsToPoly20
+    4300018: min_aiguilles nurbsToPoly21
+    4300020: nurbsToPoly18_min aiguilles
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

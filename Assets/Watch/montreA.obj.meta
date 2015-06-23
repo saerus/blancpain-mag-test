@@ -1,0 +1,726 @@
+fileFormatVersion: 2
+guid: 2031d63cd133c4602895ed716f3e4817
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: group28_montre anneau
+    100002: group28_montre bouton
+    100004: group28_montre loftedSurface1
+    100006: group28_montre loftedSurface2
+    100008: group28_montre pCylinder26
+    100010: group28_montre pCylinder27
+    100012: group28_montre pCylinder7
+    100014: group28_montre polySurface1
+    100016: group28_montre polySurface10
+    100018: group28_montre polySurface100
+    100020: group28_montre polySurface101
+    100022: group28_montre polySurface102
+    100024: group28_montre polySurface103
+    100026: group28_montre polySurface104
+    100028: group28_montre polySurface105
+    100030: group28_montre polySurface13
+    100032: group28_montre polySurface14
+    100034: group28_montre polySurface15
+    100036: group28_montre polySurface16
+    100038: group28_montre polySurface17
+    100040: group28_montre polySurface18
+    100042: group28_montre polySurface19
+    100044: group28_montre polySurface2
+    100046: group28_montre polySurface20
+    100048: group28_montre polySurface21
+    100050: group28_montre polySurface22
+    100052: group28_montre polySurface23
+    100054: group28_montre polySurface24
+    100056: group28_montre polySurface25
+    100058: group28_montre polySurface26
+    100060: group28_montre polySurface27
+    100062: group28_montre polySurface28
+    100064: group28_montre polySurface29
+    100066: group28_montre polySurface30
+    100068: group28_montre polySurface31
+    100070: group28_montre polySurface32
+    100072: group28_montre polySurface33
+    100074: group28_montre polySurface34
+    100076: group28_montre polySurface35
+    100078: group28_montre polySurface36
+    100080: group28_montre polySurface37
+    100082: group28_montre polySurface38
+    100084: group28_montre polySurface39
+    100086: group28_montre polySurface40
+    100088: group28_montre polySurface41
+    100090: group28_montre polySurface42
+    100092: group28_montre polySurface43
+    100094: group28_montre polySurface44
+    100096: group28_montre polySurface45
+    100098: group28_montre polySurface46
+    100100: group28_montre polySurface47
+    100102: group28_montre polySurface48
+    100104: group28_montre polySurface49
+    100106: group28_montre polySurface50
+    100108: group28_montre polySurface51
+    100110: group28_montre polySurface52
+    100112: group28_montre polySurface53
+    100114: group28_montre polySurface54
+    100116: group28_montre polySurface55
+    100118: group28_montre polySurface56
+    100120: group28_montre polySurface57
+    100122: group28_montre polySurface58
+    100124: group28_montre polySurface59
+    100126: group28_montre polySurface60
+    100128: group28_montre polySurface61
+    100130: group28_montre polySurface62
+    100132: group28_montre polySurface63
+    100134: group28_montre polySurface64
+    100136: group28_montre polySurface65
+    100138: group28_montre polySurface66
+    100140: group28_montre polySurface67
+    100142: group28_montre polySurface68
+    100144: group28_montre polySurface69
+    100146: group28_montre polySurface70
+    100148: group28_montre polySurface71
+    100150: group28_montre polySurface72
+    100152: group28_montre polySurface73
+    100154: group28_montre polySurface74
+    100156: group28_montre polySurface75
+    100158: group28_montre polySurface76
+    100160: group28_montre polySurface77
+    100162: group28_montre polySurface78
+    100164: group28_montre polySurface79
+    100166: group28_montre polySurface8
+    100168: group28_montre polySurface80
+    100170: group28_montre polySurface81
+    100172: group28_montre polySurface82
+    100174: group28_montre polySurface83
+    100176: group28_montre polySurface87
+    100178: group28_montre polySurface88
+    100180: group28_montre polySurface89
+    100182: group28_montre polySurface9
+    100184: group28_montre polySurface90
+    100186: group28_montre polySurface91
+    100188: group28_montre polySurface92
+    100190: group28_montre polySurface93
+    100192: group28_montre polySurface94
+    100194: group28_montre polySurface95
+    100196: group28_montre polySurface96
+    100198: group28_montre polySurface97
+    100200: group28_montre polySurface98
+    100202: group28_montre polySurface99
+    100204: group28_montre verre
+    100206: montre_fond
+    100208: montre_nurbsToPoly1
+    100210: montre_nurbsToPoly2
+    100212: montre_nurbsToPoly4 petites
+    100214: montre_petites nurbsToPoly10
+    100216: montre_petites nurbsToPoly11
+    100218: montre_petites nurbsToPoly12
+    100220: montre_petites nurbsToPoly13
+    100222: montre_petites nurbsToPoly5
+    100224: montre_petites nurbsToPoly6
+    100226: montre_petites nurbsToPoly7
+    100228: montre_petites nurbsToPoly8
+    100230: montre_petites nurbsToPoly9
+    100232: //RootNode
+    100234: polySurface7_group28 montre
+    100236: group28_montre polySurface106 polySurface9
+    100238: group28_montre polySurface108 polySurface10
+    100240: montre_nurbsToPoly13 vert
+    100242: montre_vert polySurface101
+    100244: montre_vert polySurface103
+    100246: montre_vert polySurface105
+    100248: montre_vert polySurface107
+    100250: montre_vert polySurface109
+    100252: montre_vert polySurface2
+    100254: montre_vert polySurface8
+    100256: montre_vert polySurface89
+    100258: montre_vert polySurface91
+    100260: montre_vert polySurface93
+    100262: montre_vert polySurface95
+    100264: montre_vert polySurface97
+    100266: montre_vert polySurface99
+    400000: group28_montre anneau
+    400002: group28_montre bouton
+    400004: group28_montre loftedSurface1
+    400006: group28_montre loftedSurface2
+    400008: group28_montre pCylinder26
+    400010: group28_montre pCylinder27
+    400012: group28_montre pCylinder7
+    400014: group28_montre polySurface1
+    400016: group28_montre polySurface10
+    400018: group28_montre polySurface100
+    400020: group28_montre polySurface101
+    400022: group28_montre polySurface102
+    400024: group28_montre polySurface103
+    400026: group28_montre polySurface104
+    400028: group28_montre polySurface105
+    400030: group28_montre polySurface13
+    400032: group28_montre polySurface14
+    400034: group28_montre polySurface15
+    400036: group28_montre polySurface16
+    400038: group28_montre polySurface17
+    400040: group28_montre polySurface18
+    400042: group28_montre polySurface19
+    400044: group28_montre polySurface2
+    400046: group28_montre polySurface20
+    400048: group28_montre polySurface21
+    400050: group28_montre polySurface22
+    400052: group28_montre polySurface23
+    400054: group28_montre polySurface24
+    400056: group28_montre polySurface25
+    400058: group28_montre polySurface26
+    400060: group28_montre polySurface27
+    400062: group28_montre polySurface28
+    400064: group28_montre polySurface29
+    400066: group28_montre polySurface30
+    400068: group28_montre polySurface31
+    400070: group28_montre polySurface32
+    400072: group28_montre polySurface33
+    400074: group28_montre polySurface34
+    400076: group28_montre polySurface35
+    400078: group28_montre polySurface36
+    400080: group28_montre polySurface37
+    400082: group28_montre polySurface38
+    400084: group28_montre polySurface39
+    400086: group28_montre polySurface40
+    400088: group28_montre polySurface41
+    400090: group28_montre polySurface42
+    400092: group28_montre polySurface43
+    400094: group28_montre polySurface44
+    400096: group28_montre polySurface45
+    400098: group28_montre polySurface46
+    400100: group28_montre polySurface47
+    400102: group28_montre polySurface48
+    400104: group28_montre polySurface49
+    400106: group28_montre polySurface50
+    400108: group28_montre polySurface51
+    400110: group28_montre polySurface52
+    400112: group28_montre polySurface53
+    400114: group28_montre polySurface54
+    400116: group28_montre polySurface55
+    400118: group28_montre polySurface56
+    400120: group28_montre polySurface57
+    400122: group28_montre polySurface58
+    400124: group28_montre polySurface59
+    400126: group28_montre polySurface60
+    400128: group28_montre polySurface61
+    400130: group28_montre polySurface62
+    400132: group28_montre polySurface63
+    400134: group28_montre polySurface64
+    400136: group28_montre polySurface65
+    400138: group28_montre polySurface66
+    400140: group28_montre polySurface67
+    400142: group28_montre polySurface68
+    400144: group28_montre polySurface69
+    400146: group28_montre polySurface70
+    400148: group28_montre polySurface71
+    400150: group28_montre polySurface72
+    400152: group28_montre polySurface73
+    400154: group28_montre polySurface74
+    400156: group28_montre polySurface75
+    400158: group28_montre polySurface76
+    400160: group28_montre polySurface77
+    400162: group28_montre polySurface78
+    400164: group28_montre polySurface79
+    400166: group28_montre polySurface8
+    400168: group28_montre polySurface80
+    400170: group28_montre polySurface81
+    400172: group28_montre polySurface82
+    400174: group28_montre polySurface83
+    400176: group28_montre polySurface87
+    400178: group28_montre polySurface88
+    400180: group28_montre polySurface89
+    400182: group28_montre polySurface9
+    400184: group28_montre polySurface90
+    400186: group28_montre polySurface91
+    400188: group28_montre polySurface92
+    400190: group28_montre polySurface93
+    400192: group28_montre polySurface94
+    400194: group28_montre polySurface95
+    400196: group28_montre polySurface96
+    400198: group28_montre polySurface97
+    400200: group28_montre polySurface98
+    400202: group28_montre polySurface99
+    400204: group28_montre verre
+    400206: montre_fond
+    400208: montre_nurbsToPoly1
+    400210: montre_nurbsToPoly2
+    400212: montre_nurbsToPoly4 petites
+    400214: montre_petites nurbsToPoly10
+    400216: montre_petites nurbsToPoly11
+    400218: montre_petites nurbsToPoly12
+    400220: montre_petites nurbsToPoly13
+    400222: montre_petites nurbsToPoly5
+    400224: montre_petites nurbsToPoly6
+    400226: montre_petites nurbsToPoly7
+    400228: montre_petites nurbsToPoly8
+    400230: montre_petites nurbsToPoly9
+    400232: //RootNode
+    400234: polySurface7_group28 montre
+    400236: group28_montre polySurface106 polySurface9
+    400238: group28_montre polySurface108 polySurface10
+    400240: montre_nurbsToPoly13 vert
+    400242: montre_vert polySurface101
+    400244: montre_vert polySurface103
+    400246: montre_vert polySurface105
+    400248: montre_vert polySurface107
+    400250: montre_vert polySurface109
+    400252: montre_vert polySurface2
+    400254: montre_vert polySurface8
+    400256: montre_vert polySurface89
+    400258: montre_vert polySurface91
+    400260: montre_vert polySurface93
+    400262: montre_vert polySurface95
+    400264: montre_vert polySurface97
+    400266: montre_vert polySurface99
+    2300000: group28_montre anneau
+    2300002: group28_montre bouton
+    2300004: group28_montre loftedSurface1
+    2300006: group28_montre loftedSurface2
+    2300008: group28_montre pCylinder26
+    2300010: group28_montre pCylinder27
+    2300012: group28_montre pCylinder7
+    2300014: group28_montre polySurface1
+    2300016: group28_montre polySurface10
+    2300018: group28_montre polySurface100
+    2300020: group28_montre polySurface101
+    2300022: group28_montre polySurface102
+    2300024: group28_montre polySurface103
+    2300026: group28_montre polySurface104
+    2300028: group28_montre polySurface105
+    2300030: group28_montre polySurface13
+    2300032: group28_montre polySurface14
+    2300034: group28_montre polySurface15
+    2300036: group28_montre polySurface16
+    2300038: group28_montre polySurface17
+    2300040: group28_montre polySurface18
+    2300042: group28_montre polySurface19
+    2300044: group28_montre polySurface2
+    2300046: group28_montre polySurface20
+    2300048: group28_montre polySurface21
+    2300050: group28_montre polySurface22
+    2300052: group28_montre polySurface23
+    2300054: group28_montre polySurface24
+    2300056: group28_montre polySurface25
+    2300058: group28_montre polySurface26
+    2300060: group28_montre polySurface27
+    2300062: group28_montre polySurface28
+    2300064: group28_montre polySurface29
+    2300066: group28_montre polySurface30
+    2300068: group28_montre polySurface31
+    2300070: group28_montre polySurface32
+    2300072: group28_montre polySurface33
+    2300074: group28_montre polySurface34
+    2300076: group28_montre polySurface35
+    2300078: group28_montre polySurface36
+    2300080: group28_montre polySurface37
+    2300082: group28_montre polySurface38
+    2300084: group28_montre polySurface39
+    2300086: group28_montre polySurface40
+    2300088: group28_montre polySurface41
+    2300090: group28_montre polySurface42
+    2300092: group28_montre polySurface43
+    2300094: group28_montre polySurface44
+    2300096: group28_montre polySurface45
+    2300098: group28_montre polySurface46
+    2300100: group28_montre polySurface47
+    2300102: group28_montre polySurface48
+    2300104: group28_montre polySurface49
+    2300106: group28_montre polySurface50
+    2300108: group28_montre polySurface51
+    2300110: group28_montre polySurface52
+    2300112: group28_montre polySurface53
+    2300114: group28_montre polySurface54
+    2300116: group28_montre polySurface55
+    2300118: group28_montre polySurface56
+    2300120: group28_montre polySurface57
+    2300122: group28_montre polySurface58
+    2300124: group28_montre polySurface59
+    2300126: group28_montre polySurface60
+    2300128: group28_montre polySurface61
+    2300130: group28_montre polySurface62
+    2300132: group28_montre polySurface63
+    2300134: group28_montre polySurface64
+    2300136: group28_montre polySurface65
+    2300138: group28_montre polySurface66
+    2300140: group28_montre polySurface67
+    2300142: group28_montre polySurface68
+    2300144: group28_montre polySurface69
+    2300146: group28_montre polySurface70
+    2300148: group28_montre polySurface71
+    2300150: group28_montre polySurface72
+    2300152: group28_montre polySurface73
+    2300154: group28_montre polySurface74
+    2300156: group28_montre polySurface75
+    2300158: group28_montre polySurface76
+    2300160: group28_montre polySurface77
+    2300162: group28_montre polySurface78
+    2300164: group28_montre polySurface79
+    2300166: group28_montre polySurface8
+    2300168: group28_montre polySurface80
+    2300170: group28_montre polySurface81
+    2300172: group28_montre polySurface82
+    2300174: group28_montre polySurface83
+    2300176: group28_montre polySurface87
+    2300178: group28_montre polySurface88
+    2300180: group28_montre polySurface89
+    2300182: group28_montre polySurface9
+    2300184: group28_montre polySurface90
+    2300186: group28_montre polySurface91
+    2300188: group28_montre polySurface92
+    2300190: group28_montre polySurface93
+    2300192: group28_montre polySurface94
+    2300194: group28_montre polySurface95
+    2300196: group28_montre polySurface96
+    2300198: group28_montre polySurface97
+    2300200: group28_montre polySurface98
+    2300202: group28_montre polySurface99
+    2300204: group28_montre verre
+    2300206: montre_fond
+    2300208: montre_nurbsToPoly1
+    2300210: montre_nurbsToPoly2
+    2300212: montre_nurbsToPoly4 petites
+    2300214: montre_petites nurbsToPoly10
+    2300216: montre_petites nurbsToPoly11
+    2300218: montre_petites nurbsToPoly12
+    2300220: montre_petites nurbsToPoly13
+    2300222: montre_petites nurbsToPoly5
+    2300224: montre_petites nurbsToPoly6
+    2300226: montre_petites nurbsToPoly7
+    2300228: montre_petites nurbsToPoly8
+    2300230: montre_petites nurbsToPoly9
+    2300232: polySurface7_group28 montre
+    2300234: group28_montre polySurface106 polySurface9
+    2300236: group28_montre polySurface108 polySurface10
+    2300238: montre_nurbsToPoly13 vert
+    2300240: montre_vert polySurface101
+    2300242: montre_vert polySurface103
+    2300244: montre_vert polySurface105
+    2300246: montre_vert polySurface107
+    2300248: montre_vert polySurface109
+    2300250: montre_vert polySurface2
+    2300252: montre_vert polySurface8
+    2300254: montre_vert polySurface89
+    2300256: montre_vert polySurface91
+    2300258: montre_vert polySurface93
+    2300260: montre_vert polySurface95
+    2300262: montre_vert polySurface97
+    2300264: montre_vert polySurface99
+    3300000: group28_montre anneau
+    3300002: group28_montre bouton
+    3300004: group28_montre loftedSurface1
+    3300006: group28_montre loftedSurface2
+    3300008: group28_montre pCylinder26
+    3300010: group28_montre pCylinder27
+    3300012: group28_montre pCylinder7
+    3300014: group28_montre polySurface1
+    3300016: group28_montre polySurface10
+    3300018: group28_montre polySurface100
+    3300020: group28_montre polySurface101
+    3300022: group28_montre polySurface102
+    3300024: group28_montre polySurface103
+    3300026: group28_montre polySurface104
+    3300028: group28_montre polySurface105
+    3300030: group28_montre polySurface13
+    3300032: group28_montre polySurface14
+    3300034: group28_montre polySurface15
+    3300036: group28_montre polySurface16
+    3300038: group28_montre polySurface17
+    3300040: group28_montre polySurface18
+    3300042: group28_montre polySurface19
+    3300044: group28_montre polySurface2
+    3300046: group28_montre polySurface20
+    3300048: group28_montre polySurface21
+    3300050: group28_montre polySurface22
+    3300052: group28_montre polySurface23
+    3300054: group28_montre polySurface24
+    3300056: group28_montre polySurface25
+    3300058: group28_montre polySurface26
+    3300060: group28_montre polySurface27
+    3300062: group28_montre polySurface28
+    3300064: group28_montre polySurface29
+    3300066: group28_montre polySurface30
+    3300068: group28_montre polySurface31
+    3300070: group28_montre polySurface32
+    3300072: group28_montre polySurface33
+    3300074: group28_montre polySurface34
+    3300076: group28_montre polySurface35
+    3300078: group28_montre polySurface36
+    3300080: group28_montre polySurface37
+    3300082: group28_montre polySurface38
+    3300084: group28_montre polySurface39
+    3300086: group28_montre polySurface40
+    3300088: group28_montre polySurface41
+    3300090: group28_montre polySurface42
+    3300092: group28_montre polySurface43
+    3300094: group28_montre polySurface44
+    3300096: group28_montre polySurface45
+    3300098: group28_montre polySurface46
+    3300100: group28_montre polySurface47
+    3300102: group28_montre polySurface48
+    3300104: group28_montre polySurface49
+    3300106: group28_montre polySurface50
+    3300108: group28_montre polySurface51
+    3300110: group28_montre polySurface52
+    3300112: group28_montre polySurface53
+    3300114: group28_montre polySurface54
+    3300116: group28_montre polySurface55
+    3300118: group28_montre polySurface56
+    3300120: group28_montre polySurface57
+    3300122: group28_montre polySurface58
+    3300124: group28_montre polySurface59
+    3300126: group28_montre polySurface60
+    3300128: group28_montre polySurface61
+    3300130: group28_montre polySurface62
+    3300132: group28_montre polySurface63
+    3300134: group28_montre polySurface64
+    3300136: group28_montre polySurface65
+    3300138: group28_montre polySurface66
+    3300140: group28_montre polySurface67
+    3300142: group28_montre polySurface68
+    3300144: group28_montre polySurface69
+    3300146: group28_montre polySurface70
+    3300148: group28_montre polySurface71
+    3300150: group28_montre polySurface72
+    3300152: group28_montre polySurface73
+    3300154: group28_montre polySurface74
+    3300156: group28_montre polySurface75
+    3300158: group28_montre polySurface76
+    3300160: group28_montre polySurface77
+    3300162: group28_montre polySurface78
+    3300164: group28_montre polySurface79
+    3300166: group28_montre polySurface8
+    3300168: group28_montre polySurface80
+    3300170: group28_montre polySurface81
+    3300172: group28_montre polySurface82
+    3300174: group28_montre polySurface83
+    3300176: group28_montre polySurface87
+    3300178: group28_montre polySurface88
+    3300180: group28_montre polySurface89
+    3300182: group28_montre polySurface9
+    3300184: group28_montre polySurface90
+    3300186: group28_montre polySurface91
+    3300188: group28_montre polySurface92
+    3300190: group28_montre polySurface93
+    3300192: group28_montre polySurface94
+    3300194: group28_montre polySurface95
+    3300196: group28_montre polySurface96
+    3300198: group28_montre polySurface97
+    3300200: group28_montre polySurface98
+    3300202: group28_montre polySurface99
+    3300204: group28_montre verre
+    3300206: montre_fond
+    3300208: montre_nurbsToPoly1
+    3300210: montre_nurbsToPoly2
+    3300212: montre_nurbsToPoly4 petites
+    3300214: montre_petites nurbsToPoly10
+    3300216: montre_petites nurbsToPoly11
+    3300218: montre_petites nurbsToPoly12
+    3300220: montre_petites nurbsToPoly13
+    3300222: montre_petites nurbsToPoly5
+    3300224: montre_petites nurbsToPoly6
+    3300226: montre_petites nurbsToPoly7
+    3300228: montre_petites nurbsToPoly8
+    3300230: montre_petites nurbsToPoly9
+    3300232: polySurface7_group28 montre
+    3300234: group28_montre polySurface106 polySurface9
+    3300236: group28_montre polySurface108 polySurface10
+    3300238: montre_nurbsToPoly13 vert
+    3300240: montre_vert polySurface101
+    3300242: montre_vert polySurface103
+    3300244: montre_vert polySurface105
+    3300246: montre_vert polySurface107
+    3300248: montre_vert polySurface109
+    3300250: montre_vert polySurface2
+    3300252: montre_vert polySurface8
+    3300254: montre_vert polySurface89
+    3300256: montre_vert polySurface91
+    3300258: montre_vert polySurface93
+    3300260: montre_vert polySurface95
+    3300262: montre_vert polySurface97
+    3300264: montre_vert polySurface99
+    4300000: group28_montre anneau
+    4300002: group28_montre bouton
+    4300004: group28_montre loftedSurface1
+    4300006: group28_montre loftedSurface2
+    4300008: group28_montre pCylinder26
+    4300010: group28_montre pCylinder27
+    4300012: group28_montre pCylinder7
+    4300014: group28_montre polySurface1
+    4300016: group28_montre polySurface10
+    4300018: group28_montre polySurface100
+    4300020: group28_montre polySurface101
+    4300022: group28_montre polySurface102
+    4300024: group28_montre polySurface103
+    4300026: group28_montre polySurface104
+    4300028: group28_montre polySurface105
+    4300030: group28_montre polySurface13
+    4300032: group28_montre polySurface14
+    4300034: group28_montre polySurface15
+    4300036: group28_montre polySurface16
+    4300038: group28_montre polySurface17
+    4300040: group28_montre polySurface18
+    4300042: group28_montre polySurface19
+    4300044: group28_montre polySurface2
+    4300046: group28_montre polySurface20
+    4300048: group28_montre polySurface21
+    4300050: group28_montre polySurface22
+    4300052: group28_montre polySurface23
+    4300054: group28_montre polySurface24
+    4300056: group28_montre polySurface25
+    4300058: group28_montre polySurface26
+    4300060: group28_montre polySurface27
+    4300062: group28_montre polySurface28
+    4300064: group28_montre polySurface29
+    4300066: group28_montre polySurface30
+    4300068: group28_montre polySurface31
+    4300070: group28_montre polySurface32
+    4300072: group28_montre polySurface33
+    4300074: group28_montre polySurface34
+    4300076: group28_montre polySurface35
+    4300078: group28_montre polySurface36
+    4300080: group28_montre polySurface37
+    4300082: group28_montre polySurface38
+    4300084: group28_montre polySurface39
+    4300086: group28_montre polySurface40
+    4300088: group28_montre polySurface41
+    4300090: group28_montre polySurface42
+    4300092: group28_montre polySurface43
+    4300094: group28_montre polySurface44
+    4300096: group28_montre polySurface45
+    4300098: group28_montre polySurface46
+    4300100: group28_montre polySurface47
+    4300102: group28_montre polySurface48
+    4300104: group28_montre polySurface49
+    4300106: group28_montre polySurface50
+    4300108: group28_montre polySurface51
+    4300110: group28_montre polySurface52
+    4300112: group28_montre polySurface53
+    4300114: group28_montre polySurface54
+    4300116: group28_montre polySurface55
+    4300118: group28_montre polySurface56
+    4300120: group28_montre polySurface57
+    4300122: group28_montre polySurface58
+    4300124: group28_montre polySurface59
+    4300126: group28_montre polySurface60
+    4300128: group28_montre polySurface61
+    4300130: group28_montre polySurface62
+    4300132: group28_montre polySurface63
+    4300134: group28_montre polySurface64
+    4300136: group28_montre polySurface65
+    4300138: group28_montre polySurface66
+    4300140: group28_montre polySurface67
+    4300142: group28_montre polySurface68
+    4300144: group28_montre polySurface69
+    4300146: group28_montre polySurface70
+    4300148: group28_montre polySurface71
+    4300150: group28_montre polySurface72
+    4300152: group28_montre polySurface73
+    4300154: group28_montre polySurface74
+    4300156: group28_montre polySurface75
+    4300158: group28_montre polySurface76
+    4300160: group28_montre polySurface77
+    4300162: group28_montre polySurface78
+    4300164: group28_montre polySurface79
+    4300166: group28_montre polySurface8
+    4300168: group28_montre polySurface80
+    4300170: group28_montre polySurface81
+    4300172: group28_montre polySurface82
+    4300174: group28_montre polySurface83
+    4300176: group28_montre polySurface87
+    4300178: group28_montre polySurface88
+    4300180: group28_montre polySurface89
+    4300182: group28_montre polySurface9
+    4300184: group28_montre polySurface90
+    4300186: group28_montre polySurface91
+    4300188: group28_montre polySurface92
+    4300190: group28_montre polySurface93
+    4300192: group28_montre polySurface94
+    4300194: group28_montre polySurface95
+    4300196: group28_montre polySurface96
+    4300198: group28_montre polySurface97
+    4300200: group28_montre polySurface98
+    4300202: group28_montre polySurface99
+    4300204: group28_montre verre
+    4300206: montre_fond
+    4300208: montre_nurbsToPoly1
+    4300210: montre_nurbsToPoly2
+    4300212: montre_nurbsToPoly4 petites
+    4300214: montre_petites nurbsToPoly10
+    4300216: montre_petites nurbsToPoly11
+    4300218: montre_petites nurbsToPoly12
+    4300220: montre_petites nurbsToPoly13
+    4300222: montre_petites nurbsToPoly5
+    4300224: montre_petites nurbsToPoly6
+    4300226: montre_petites nurbsToPoly7
+    4300228: montre_petites nurbsToPoly8
+    4300230: montre_petites nurbsToPoly9
+    4300232: polySurface7_group28 montre
+    4300234: group28_montre polySurface106 polySurface9
+    4300236: group28_montre polySurface108 polySurface10
+    4300238: montre_nurbsToPoly13 vert
+    4300240: montre_vert polySurface101
+    4300242: montre_vert polySurface103
+    4300244: montre_vert polySurface105
+    4300246: montre_vert polySurface107
+    4300248: montre_vert polySurface109
+    4300250: montre_vert polySurface2
+    4300252: montre_vert polySurface8
+    4300254: montre_vert polySurface89
+    4300256: montre_vert polySurface91
+    4300258: montre_vert polySurface93
+    4300260: montre_vert polySurface95
+    4300262: montre_vert polySurface97
+    4300264: montre_vert polySurface99
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
