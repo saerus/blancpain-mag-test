@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: b6e18a4b55fde4208b1b5fd70411006a
 ModelImporter:
-  serializedVersion: 16
+  serializedVersion: 19
   fileIDToRecycleName:
     100000: aiguilles_hour nurbsToPoly15
     100002: aiguilles_hour nurbsToPoly16
@@ -15,6 +15,17 @@ ModelImporter:
     100018: min_aiguilles nurbsToPoly21
     100020: //RootNode
     100022: nurbsToPoly18_min aiguilles
+    100024: aiguilles_hour_nurbsToPoly15
+    100026: aiguilles_hour_nurbsToPoly16
+    100028: aiguilles_hour_nurbsToPoly17
+    100030: aiguilles_nurbsToPoly14_hour
+    100032: aiguilles_nurbsToPoly22_sec
+    100034: aiguilles_sec_nurbsToPoly23
+    100036: aiguilles_sec_nurbsToPoly24
+    100038: min_aiguilles_nurbsToPoly19
+    100040: min_aiguilles_nurbsToPoly20
+    100042: min_aiguilles_nurbsToPoly21
+    100044: nurbsToPoly18_min_aiguilles
     400000: aiguilles_hour nurbsToPoly15
     400002: aiguilles_hour nurbsToPoly16
     400004: aiguilles_hour nurbsToPoly17
@@ -27,6 +38,17 @@ ModelImporter:
     400018: min_aiguilles nurbsToPoly21
     400020: //RootNode
     400022: nurbsToPoly18_min aiguilles
+    400024: aiguilles_hour_nurbsToPoly15
+    400026: aiguilles_hour_nurbsToPoly16
+    400028: aiguilles_hour_nurbsToPoly17
+    400030: aiguilles_nurbsToPoly14_hour
+    400032: aiguilles_nurbsToPoly22_sec
+    400034: aiguilles_sec_nurbsToPoly23
+    400036: aiguilles_sec_nurbsToPoly24
+    400038: min_aiguilles_nurbsToPoly19
+    400040: min_aiguilles_nurbsToPoly20
+    400042: min_aiguilles_nurbsToPoly21
+    400044: nurbsToPoly18_min_aiguilles
     2300000: aiguilles_hour nurbsToPoly15
     2300002: aiguilles_hour nurbsToPoly16
     2300004: aiguilles_hour nurbsToPoly17
@@ -38,6 +60,17 @@ ModelImporter:
     2300016: min_aiguilles nurbsToPoly20
     2300018: min_aiguilles nurbsToPoly21
     2300020: nurbsToPoly18_min aiguilles
+    2300022: aiguilles_hour_nurbsToPoly15
+    2300024: aiguilles_hour_nurbsToPoly16
+    2300026: aiguilles_hour_nurbsToPoly17
+    2300028: aiguilles_nurbsToPoly14_hour
+    2300030: aiguilles_nurbsToPoly22_sec
+    2300032: aiguilles_sec_nurbsToPoly23
+    2300034: aiguilles_sec_nurbsToPoly24
+    2300036: min_aiguilles_nurbsToPoly19
+    2300038: min_aiguilles_nurbsToPoly20
+    2300040: min_aiguilles_nurbsToPoly21
+    2300042: nurbsToPoly18_min_aiguilles
     3300000: aiguilles_hour nurbsToPoly15
     3300002: aiguilles_hour nurbsToPoly16
     3300004: aiguilles_hour nurbsToPoly17
@@ -49,6 +82,17 @@ ModelImporter:
     3300016: min_aiguilles nurbsToPoly20
     3300018: min_aiguilles nurbsToPoly21
     3300020: nurbsToPoly18_min aiguilles
+    3300022: aiguilles_hour_nurbsToPoly15
+    3300024: aiguilles_hour_nurbsToPoly16
+    3300026: aiguilles_hour_nurbsToPoly17
+    3300028: aiguilles_nurbsToPoly14_hour
+    3300030: aiguilles_nurbsToPoly22_sec
+    3300032: aiguilles_sec_nurbsToPoly23
+    3300034: aiguilles_sec_nurbsToPoly24
+    3300036: min_aiguilles_nurbsToPoly19
+    3300038: min_aiguilles_nurbsToPoly20
+    3300040: min_aiguilles_nurbsToPoly21
+    3300042: nurbsToPoly18_min_aiguilles
     4300000: aiguilles_hour nurbsToPoly15
     4300002: aiguilles_hour nurbsToPoly16
     4300004: aiguilles_hour nurbsToPoly17
@@ -60,6 +104,17 @@ ModelImporter:
     4300016: min_aiguilles nurbsToPoly20
     4300018: min_aiguilles nurbsToPoly21
     4300020: nurbsToPoly18_min aiguilles
+    4300022: aiguilles_hour_nurbsToPoly15
+    4300024: aiguilles_hour_nurbsToPoly16
+    4300026: aiguilles_hour_nurbsToPoly17
+    4300028: aiguilles_nurbsToPoly14_hour
+    4300030: aiguilles_nurbsToPoly22_sec
+    4300032: aiguilles_sec_nurbsToPoly23
+    4300034: aiguilles_sec_nurbsToPoly24
+    4300036: min_aiguilles_nurbsToPoly19
+    4300038: min_aiguilles_nurbsToPoly20
+    4300040: min_aiguilles_nurbsToPoly21
+    4300042: nurbsToPoly18_min_aiguilles
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -68,11 +123,17 @@ ModelImporter:
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
+    resampleRotations: 1
     optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
     animationCompression: 1
-    animationRotationError: .5
-    animationPositionError: .5
-    animationScaleError: .5
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
     clipAnimations: []
@@ -87,30 +148,35 @@ ModelImporter:
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
+    keepQuads: 0
     weldVertices: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
+    useFileScale: 0
   tangentSpace:
     normalSmoothAngle: 60
-    splitTangentsAcrossUV: 1
     normalImportMode: 0
-    tangentImportMode: 1
+    tangentImportMode: 4
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
     human: []
     skeleton: []
-    armTwist: .5
-    foreArmTwist: .5
-    upperLegTwist: .5
-    legTwist: .5
-    armStretch: .0500000007
-    legStretch: .0500000007
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
+    hasTranslationDoF: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 2
+  humanoidOversampling: 1
   additionalBone: 0
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 

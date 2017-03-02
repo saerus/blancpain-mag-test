@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="poignetb-02" size="5.000000 5.000000" />
+    <ImageTarget name="cover2" size="14.000000 14.000000" />
+    <ImageTarget name="paysage" size="3000.000000 3664.168945" />
+    <ImageTarget name="oiseaux" size="3000.000000 3664.168945" />
+    <ImageTarget name="cuisine" size="3000.000000 3664.168945" />
     <ImageTarget name="BPpage10" size="16.000000 12.594936" />
     <ImageTarget name="CouvCut" size="15.000000 14.982679" />
   </Tracking>
